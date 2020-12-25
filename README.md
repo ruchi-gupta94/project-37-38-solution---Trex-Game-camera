@@ -1,2 +1,2 @@
-# project-37-38-solution---Trex-Game-camera
-project 37 &amp; 38 solution - Trex Game camera
+# trex
+Chrome's trex game created using p5.play
